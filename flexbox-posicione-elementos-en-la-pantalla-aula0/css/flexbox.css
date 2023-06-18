@@ -56,3 +56,12 @@
     display: flex;
     width: 23%;
 }
+
+.videoSobre .container {
+    display: flex;
+    align-items: center;
+}
+
+.videoSobre-button {
+    margin-top: .6rem;
+}
